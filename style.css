@@ -32,8 +32,14 @@ body {
     background: rgba(255, 255, 255, .30);
     border: 1px solid rgba(255, 255, 255, .34);
     flex-basis: 400px;
-    height: 540px;
+    height: 620x;
     padding: 20px 35px;
+}
+
+.wrapper h2 {
+    text-align: center;
+    margin: 10px auto;
+    font-weight: bold;
 }
 
 .screen {
